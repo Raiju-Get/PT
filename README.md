@@ -1,5 +1,5 @@
 # Tools used in this project
-### Unity Engine ~ The Game engine used.
+### Unity Engine : The Game engine used.
 ### Unity Terrain : Ths tool used to generate the terrian and plat the trees 
 ### Unity Input System : The in-built system to take player input.
 ### Cinemachine : The in-built camera system.
